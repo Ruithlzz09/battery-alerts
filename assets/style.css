@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#battery-status {
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 2rem;
+}
